@@ -11,7 +11,7 @@ My personal repository
 - 🔥 I’m currently learning software engineer at FPT University  
   
 
-- 🍀 Tell me what you want, I will make it happen 👌
+- 🍀 Tell me what you want, I'll try to make it happen 👌
   
 
 - ✨ Fun fact: I'm very interested in what you want  
