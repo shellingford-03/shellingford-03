@@ -110,6 +110,10 @@ My personal repository
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=your-github-shellingford-03&color=green&color=lightgrey&style=plastic&label=PROFILE+VIEWS" align="center" />
 </div>  
+
+<!-- <div align="center">
+<img src="https://github.com/shellingford-03/github-profile-views-counter/?username=your-github-shellingford-03&color=green&color=lightgrey&style=plastic&label=PROFILE+VIEWS" align="center" />
+</div>  -->
   
 
 <br/>  
