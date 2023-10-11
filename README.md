@@ -109,11 +109,11 @@ My personal repository
 
 <!--
 <div align="center">
-<img src="https://github.com/shellingford-03/github-profile-views-counter-master.git/?username=your-github-shellingford-03&color=lightgrey&style=plastic&label=PROFILE+VIEWS" align="center" />
-</div>-->
+<img src="https://github.com/shellingford-03/github-profile-views-counter-master?username=your-github-shellingford-03&color=lightgrey&style=plastic&label=PROFILE+VIEWS" align="center" />
+</div> -->
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=your-github-shellingford-03&color=blue&style=flat-square&label=PROFILE+VIEWS" align="center" />
+<img src="https://komarev.com/ghpvc?username=your-github-shellingford-03&color=blue&style=flat-square&label=PROFILE+VIEWS" align="center" />
 </div>  
  
 
