@@ -106,15 +106,11 @@ My personal repository
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=memhqbsld8z8vhsz1h1qm8kvi&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>   -->
 
 <br/>  
-<!--
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=your-github-shellingford-03&color=green&color=lightgrey&style=plastic&label=PROFILE+VIEWS" align="center" />
-</div>  -->
 
 <div align="center">
-<img src="https://github.com/shellingford-03/github-profile-views-counter-master/?username=your-github-shellingford-03&color=green&color=lightgrey&style=plastic&label=PROFILE+VIEWS" align="center" />
+<img src="https://komarev.com/ghpvc/?username=your-github-shellingford-03&color=green&color=lightgrey&style=plastic&label=PROFILE+VIEWS" align="center" />
 </div>  
-  
+ 
 
 <br/>  
 
